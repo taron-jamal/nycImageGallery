@@ -1,0 +1,36 @@
+/* Navigation*/
+.logo {
+  text-transform: full-width;
+  text-shadow: 20px;
+  padding-right: 10px;
+}
+
+.search {
+  color: black;
+}
+
+.search {
+  color: black;
+}
+
+/* Images */
+#container {
+  width: 200px;
+  height: 120px;
+}
+
+#container img {
+    width: 75%;
+    height: 50%;
+    overflow: hidden;
+}
+.carousel slide {
+  padding: 25px;
+}
+
+
+/* Footer */
+footer {
+  padding-top: 15px;
+  text-align: center;
+}
